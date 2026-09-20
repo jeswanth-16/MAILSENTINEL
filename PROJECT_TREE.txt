@@ -1,0 +1,19 @@
+MAILSENTINEL_AUDIT/
+|-- README.md
+|-- SECURITY.md
+|-- package.json
+|-- requirements.txt
+|-- .env.example
+|-- PROJECT_TREE.txt
+|-- docs/
+|   `-- README.md
+|-- backend/
+|   |-- requirements.txt
+|   |-- app/
+|   `-- tests/
+|-- blockchain/
+|   `-- contracts/
+`-- frontend/
+    |-- package.json
+    |-- public/
+    `-- src/

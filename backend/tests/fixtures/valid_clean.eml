@@ -1,0 +1,22 @@
+Received: from mail-in.company.com (mail-in.company.com [198.51.100.10])
+	by mx1.company.com (Postfix) with ESMTPS id 4T92x1z9
+	for <engineer@company.com>; Mon, 7 Sep 2026 08:30:15 +0000 (UTC)
+Authentication-Results: mx1.company.com;
+	spf=pass (sender IP is 198.51.100.10) smtp.mailfrom=notifications@partner-service.com;
+	dkim=pass header.d=partner-service.com;
+	dmarc=pass (p=reject dis=none) header.from=partner-service.com
+From: "Partner Service Notifications" <notifications@partner-service.com>
+To: <engineer@company.com>
+Subject: Monthly Service Performance Metrics Summary
+Date: Mon, 7 Sep 2026 08:30:00 +0000
+Message-ID: <service-report-20260907@partner-service.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Hello Engineer,
+
+Your system performance report for September 2026 is ready.
+You can review the full summary at https://app.partner-service.com/dashboard/reports.
+
+Best regards,
+Partner Service Support Team

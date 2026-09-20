@@ -1,0 +1,12 @@
+From: internal-scanner@intranet.corp.local
+To: admin@internal-corp.org
+Subject: System Notification: Urgent Gateway Firmware Audit Required
+Date: Mon, 07 Sep 2026 15:00:00 +0000
+Message-ID: <firmware-scan-005@intranet.corp.local>
+Received: from internal-scanner.local (internal-scanner.local [10.0.4.25]) by corp-mail.local with ESMTP; Mon, 07 Sep 2026 15:00:00 +0000
+Content-Type: text/plain; charset="UTF-8"
+
+Perimeter security audit report is ready for confirmation.
+Access the internal verification link at:
+http://198.51.100.42/audit-confirm
+Urgent wire authorization documentation pending review.

@@ -1,0 +1,18 @@
+From: service@legitimate-bank.com
+Reply-To: divert-capture@attacker-drop.com
+To: treasury@internal-corp.org
+Subject: URGENT: Required Account Tax Clearance Documentation
+Date: Mon, 07 Sep 2026 14:05:00 +0000
+Message-ID: <tax-clearance-003@legitimate-bank.com>
+Authentication-Results: mx.corp.org; spf=pass (sender IP 198.51.100.22); dmarc=pass action=none
+Received: from mail.legitimate-bank.com (mail.legitimate-bank.com [198.51.100.22]) by mx.corp.org with ESMTP id ABC1234; Mon, 07 Sep 2026 14:05:00 +0000
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear Treasury Executive,</p>
+<p>Please review the urgent corporate tax clearance documents immediately.</p>
+<p><a href="http://paypa1-security.com/login.php">Click here to access your verification portal</a></p>
+<p>Ensure invoice wire authorization is submitted promptly.</p>
+</body>
+</html>
